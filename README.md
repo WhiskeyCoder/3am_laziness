@@ -49,6 +49,9 @@ This was the dumbest drunken fight I ever had with someone on Twitter, when Twit
 ### country_list_gen.py
 had to crate a text file that has a list of every country, and was to lazy to manually do it
 
+### rallypoint.py
+Simple script that will take all the files in all the folders in a set directory and move it back to the set directory, not really usefull unless you are me and write a script that recursivly puts every file instead of just one file in a folder by accident
+
 
 ## Powershell
 ### find_your_center.ps1
