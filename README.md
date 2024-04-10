@@ -3,6 +3,9 @@ scripts for the days when you are just to lazy to do simple tasks. Lots of rando
 
 
 ## Python
+### whos_listening.py
+a Python tool to list all the audio devices and index numbers, useful for coding with audio input and output cables
+
 ### ZipAllFolder.py
 zip all the folders in a directory as the name of each folder in that directory
 
