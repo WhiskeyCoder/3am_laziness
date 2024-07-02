@@ -55,6 +55,9 @@ had to crate a text file that has a list of every country, and was to lazy to ma
 ### rallypoint.py
 Simple script that will take all the files in all the folders in a set directory and move it back to the set directory, not really usefull unless you are me and write a script that recursivly puts every file instead of just one file in a folder by accident
 
+### image_meta_viewer.py
+very simple function to get metadata from a provided image
+
 
 ## Powershell
 ### find_your_center.ps1
